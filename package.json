@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Devon Kiss",
+  "license": "ISC",
+  "description": "Brad Traversy's Tailwind CSS crash course"
+}
