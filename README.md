@@ -1,4 +1,7 @@
 # USE TAILWINDCSS (3.0.23)
+## SOURCE
+  - https://tailwindcss.com/docs/installation
+
 ## PREREQUISITES
   - Application initialized with NPM/Yarn/etc.
   - `npm init` && `git init`
@@ -18,3 +21,10 @@
       - `@tailwind base;`
       - `@tailwind components;`
       - `@tailwind utilities;`
+
+## Step Four
+  - begin the Tailwind CLI build process
+    - `npx tailwindcss -i ./input.css -o .dist/output.css --watch`
+      - Do this instead in scripts for package.json:
+        - `"watch": "tailwindcss -i ./input.css -o ./css/main.css --watch",`
+        - `"build": "tailwindcss -i ./input.css -o ./css/main.css",`
