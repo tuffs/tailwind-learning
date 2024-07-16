@@ -2,7 +2,7 @@
 ## PREREQUISITES
   - Application initialized with NPM/Yarn/etc.
   - `npm init` && `git init`
-  - `npm i -D tailwindcss[@3.0.23]`
+  - `npm i -D tailwindcss@3.0.23`
 
 ## Step One
   - `npx tailwindcss init`
