@@ -5,7 +5,7 @@
 
 ## Step Two
   - add in our content to target for the project
-    - `content: ['./*.*']` or `content: ['./*.html']` for this package.
+    - `content: ['./*.*']` or `content: ['./*.html']`.
 
 ## Step Three
   - create an input.css (or whatever you'd like to call it)
