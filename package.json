@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Devon Kiss",
   "license": "ISC",
-  "description": "Brad Traversy's Tailwind CSS crash course"
+  "description": "Brad Traversy's Tailwind CSS crash course",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
 }
