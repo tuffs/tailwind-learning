@@ -1,4 +1,11 @@
 # USE TAILWINDCSS (3.0.23)
+
+## Useful Tips
+  - Add the media query responsive classes to the end of class lists
+
+
+# SETUP
+  - How to get started with Tailwind CSS in a containment environment for testing and learning.
 ## SOURCE
   - https://tailwindcss.com/docs/installation
 
